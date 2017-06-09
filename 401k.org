@@ -1,0 +1,26 @@
+* 401k loan
+** switching jobs - avoid loan default penalty
+*** new employer with 401k
+**** *rollover to 401k and take out new 401k loan to pay off old (best case)*
+     - rollover old 401k to new 401k
+     - old loan defaults
+     - take out loan from new 401k and put it in IRA to amount of old loan
+     - then report on 1099 that loan amount was put into IRA
+     - questions for new 401k provider
+       - how soon can rollover happen and how soon is loan available?
+**** take out third party loan and pay off 401k loan
+      - then take out new 401k loan and pay off third party loan to avoid
+        interest
+      - do this if there isn't time for the rollover/loan from new 401k before
+        the old loan defaults
+*** new employer without 401k
+**** third party loan
+     - take out third party loan and pay off the 401k loan to avoid the
+       penalty/taxes
+     - downside is paying higher interest on third party loan
+**** rollover to IRA and contribute some partial amount of loan
+     - if can't pay off full amount of loan, could reduce the amount 
+       penalized by however much can be contributed into an IRA
+**** rollover to IRA and cash out from 401k at same time to cover penalty
+     - downsides are cash out is penalized itself and then you're using it to
+       pay off the loan penalty
