@@ -1,5 +1,9 @@
 * 401k loan
 ** switching jobs - avoid loan default penalty
+*** transfer from Pragmatics to ATA
+     - get Ticia to send paychex signed letter on company letterhead saying they accept responsibility for loan
+     - get Pragmatics to send signed letter on company letterhead saying they release loan
+     - psteiner@paychex.com
 *** new employer with 401k
 **** *rollover to 401k and take out new 401k loan to pay off old (best case)*
      - rollover old 401k to new 401k
